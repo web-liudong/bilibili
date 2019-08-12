@@ -1,0 +1,36 @@
+.mytitle{
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: white;
+}
+.logo{
+  
+}
+
+.search_icon{
+  position: absolute;
+  top: 15rpx;
+  left:400rpx; 
+}
+
+.user_icon{
+  position: absolute;
+  top: 5rpx;
+  left:490rpx; 
+  
+}
+
+.down_app{
+
+  width: 150rpx;
+  height: 50rpx;
+  font-size:30rpx;
+   position: absolute;
+  top: 15rpx;
+  left:580rpx; 
+  background-color: pink;
+  color: #fff;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
